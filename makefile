@@ -1,7 +1,7 @@
 README.md:	
 	touch README.md
 
-	echo "## Coursera: JHU's The Unix Workbench\n" > README.md
+	echo "## Coursera: JHU's The Unix Workbench\n" >> README.md
 
 	date >> README.md
 
